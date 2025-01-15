@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn rdkit scikit-learn
 2. Substitua o caminho do arquivo na linha:
 
 ```python
-file_path = "full-smiles.xlsx"
+file_path = "data-with-SMILES.xlsx"
 ```
 pelo caminho do seu arquivo de dados.
 
