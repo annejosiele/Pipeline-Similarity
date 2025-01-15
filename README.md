@@ -20,8 +20,8 @@ pip install pandas numpy matplotlib seaborn rdkit scikit-learn
 
 
 Instruções de Uso
-
-1. Certifique-se de que o arquivo de dados de entrada no formato Excel (.xlsx) contém a coluna Canonical SMILES.
+1.Certifique-se de que o arquivo de dados de entrada no formato Excel (.xlsx) contém a coluna Canonical SMILES.
+   
 2.Substitua o caminho do arquivo na linha:
 
 python
